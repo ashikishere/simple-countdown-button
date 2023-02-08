@@ -1,8 +1,13 @@
 === SIMPLE COUNTDOWN  BUTTON ===
+
 Plugin Name: Simple countdown 
+
 Plugin URI: https://github.com/ashikishere
+
 Description: A plugin to show a countdown before open any file or link with full customization 
+
 Tags:simple countdown   button, countdown  button
+
 Version: 1.0
 Author: Az Ashik
 Author URI: https://github.com/ashikishere
